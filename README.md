@@ -1,6 +1,6 @@
 # evidence
 
-Work evidence for the Polkadot Fellowship. Repo managed with [collective-cli](https://github.com/super-collective/collective-cli).
+Work evidence for the Polkadot Fellowship. Follows the structure and formats proposed by [super-collective](https://github.com/super-collective/collective-cli).
 
 
 ## First Evidence
